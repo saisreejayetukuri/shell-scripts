@@ -10,7 +10,7 @@ echo "VM Health Report
 Hostname:$HOST
 Date:$DATE
 
-CPU Usage
+CPU Usage report
 $CPU %
 
 RAM Usage
