@@ -3,5 +3,4 @@ This is git diff practice
 hi
 This is git diff practice
 
-added from github 
-to now about git revert
+added from github
