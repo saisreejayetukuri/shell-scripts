@@ -1,0 +1,1 @@
+echo "This is monitor script" i have creted to now about gitrebase
