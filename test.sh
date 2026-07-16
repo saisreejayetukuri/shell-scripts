@@ -1,4 +1,5 @@
 #!/bin/bash
 df -h
 free -h
-nproc  
+nproc 
+123 
